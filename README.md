@@ -1,2 +1,4 @@
 # EMS-Stats-Updater
 Small program that I made to allow me to input new calls that I've gotten while working and then fit it into the categories I created for the calls
+
+This program was made to work only for my own personal type of calls and in the format I like. It also only works with a very structured file (which this programs and interprets to store and update the information), however I have provided a mock file that you can use if you wanted the program to work for you with your own stats. It's very easy to update either the code or the text file with information stored and if you want to use this program I highly suggest you do so to customize it for your own needs. This is my first actual github coding project so if you are an internship recruiter please don't judge me too hard. Feel free to give me advice on simpler ways to make such a program, I did it the only way I knew it would actually save and update the information accurately. 

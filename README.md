@@ -6,5 +6,9 @@ This program was made to work only for my own personal type of calls and in the 
 EMS_Stats.py -> Main program
 Ex_Text_File.txt -> Example text file for the program to run
 
-Note: In my program I call the file EMS_Stats_Data_nums.txt if you want your program to work you need to replace this with your file name.
-Note: All comments MUST be removed from the Ex_Text_File.txt for it work. The comments are there simply for you to understand the code. Replace the comments with the your information. 
+Notes: 
+- In my program I call the file EMS_Stats_Data_nums.txt if you want your program to work you need to replace this with your file name.
+- All comments MUST be removed from the Ex_Text_File.txt for it work. The comments are there simply for you to understand the code. Replace the comments with the your information. 
+- For the call number that some of the categories refer to (example: the calls that were for a car crash) it must be of the form: 
+    - #1,2,3
+    - Here, do not delete the '#' and 1,2,3 refer to which calls were a car crash, and they must be separated by a comma, no spaces

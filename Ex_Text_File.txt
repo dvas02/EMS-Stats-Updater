@@ -1,0 +1,36 @@
+#REMEMBER TO DELETE ALL COMMENTS, REPLACE COMMENTS WITH YOUR INFO
+#Number of shifts 
+#Number of calls
+#Number of shifts with no calls
+#Number of days shifts
+#Number of evening shifts
+#Number of night shifts
+#Number of cancelled shifts
+#Number of calls that Hazallah was present for (this non 9-1-1 help organization that sometimes responded to calls before us)
+#The call number of when Hazallah was present (format: #1,2,3)
+#Number of calls for a car crash
+#The call number with a car crash (format: #1,2,3)
+#Number of calls for a weak and dizzy patient
+#The call number (format: #1,2,3)
+#Number of calls for a heart attack
+#The call number (format: #1,2,3)
+#Number of stroke calls
+#The call number (format: #1,2,3)
+#Number of broken bone calls
+#The call number (format: #1,2,3)
+#Number of burn calls
+#The call number (format: #1,2,3)
+#The youngest patient (is a string, so can do for ex: 6months)
+#The call number (format: #10)
+#The oldest patient (is a string, so can do for ex: 90yrs)
+#The call number (format: #10)
+#The longest call (is a string, so can do for ex: 90mins)
+#The call number (format: #10)
+#Number of calls for a fall
+#The call number (format: #1,2,3)
+#The highest fall distance (is a string, so can do for ex: 5meters)
+#Number of oxygen calls
+#The call number (format: #1,2,3)
+#Number of notable moments
+#Each line after this refers to a notable moment, is of type string, can be whatever you want
+#After notable moments, the rest of the file consists of the call data, each call summary is on a new line consisting of a short summary or whatever you found important about the call.
